@@ -25,7 +25,7 @@ The dataset for "**I understand why I got this grade": Automatic Short Answer Gr
 ## Citation
 If you use this work in your research, please cite our paper:
 ```
-Aggarwal, D., Sil, P., Raman, B., & Bhattacharyya, P. (2025). "I understand why I got this grade": Automatic Short Answer Grading (ASAG) with Feedback. To appear in Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025).
+Aggarwal, D., Sil, P., Raman, B., Bhattacharyya, P. (2025). “I Understand Why I Got This Grade”: Automatic Short Answer Grading (ASAG) with Feedback. In: Cristea, A.I., Walker, E., Lu, Y., Santos, O.C., Isotani, S. (eds) Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15879. Springer, Cham. https://doi.org/10.1007/978-3-031-98420-4_2
 ```
 
 ## Contact
