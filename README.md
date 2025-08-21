@@ -25,8 +25,21 @@ The dataset for "**I understand why I got this grade": Automatic Short Answer Gr
 ## Citation
 If you use this work in your research, please cite our paper:
 ```
-Aggarwal, D., Sil, P., Raman, B., Bhattacharyya, P. (2025). “I Understand Why I Got This Grade”: Automatic Short Answer Grading (ASAG) with Feedback. In: Cristea, A.I., Walker, E., Lu, Y., Santos, O.C., Isotani, S. (eds) Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15879. Springer, Cham. https://doi.org/10.1007/978-3-031-98420-4_2
+Aggarwal, D., Sil, P., Raman, B., Bhattacharyya, P. (2025). “I Understand Why I Got This Grade”: Automatic Short Answer Grading (ASAG) with Feedback. In: Cristea, A.I., Walker, E., Lu, Y., Santos, O.C., Isotani, S. (eds) Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15879. Springer, Cham. https://doi.org/10.1007/978-3-031-98420-4_22
 ```
+**BibTeX:**
+```bibtex
+@inproceedings{aggarwal2025understand,
+  title={“I Understand Why I Got This Grade”: Automatic Short Answer Grading (ASAG) with Feedback},
+  author={Aggarwal, Dishank and Sil, Pritam and Raman, Bhaskaran and Bhattacharyya, Pushpak},
+  booktitle={International Conference on Artificial Intelligence in Education},
+  pages={304--318},
+  year={2025},
+  organization={Springer}
+}
+```
+
+
 
 ## Contact
 For questions or issues, please contact dishank.aggarwal@cse.iitb.ac.in or open an issue in this repository.
